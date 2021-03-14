@@ -1,0 +1,11 @@
+.App {
+  margin-left: 20px;
+}
+
+.unComplete{
+  background-color: yellow;
+}
+
+.complete {
+  background-color: lightgreen;
+}
